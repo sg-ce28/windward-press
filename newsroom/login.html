@@ -1,0 +1,29 @@
+<!-- MOCK SITE FOR TRAINING. Not a real organization. -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Newsroom sign-in · Windward Free Press</title>
+<link rel="stylesheet" href="../assets/css/style.css">
+<link rel="icon" type="image/svg+xml" href="../assets/img/wfp-mark.svg">
+</head>
+<body class="auth">
+<main class="auth__card">
+  <div class="auth__brand">Windward Free Press</div>
+  <p class="muted" style="margin-bottom:1.2rem">Contributor newsroom</p>
+  <div id="login-error" class="alert alert--bad" hidden></div>
+  <form id="login-form">
+    <div class="field"><label for="username">Username</label><input id="username" type="text" autocomplete="username" required></div>
+    <div class="field"><label for="password">Password</label><input id="password" type="password" autocomplete="current-password" required></div>
+    <button class="btn btn--block" type="submit">Sign in</button>
+  </form>
+  <p class="hint" style="margin-top:1rem">New contributor? Your onboarding page has everything you need.</p>
+  <p class="hint"><a href="../index.html">Back to the site</a></p>
+  <p class="mock-note muted" style="margin-top:1.5rem">Training site. Not a real organization.</p>
+</main>
+<script src="../assets/js/data.js"></script>
+<script src="../assets/js/newsroom.js"></script>
+<script src="../assets/js/login.js"></script>
+</body>
+</html>

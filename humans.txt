@@ -1,0 +1,14 @@
+/* TEAM */
+  Editor: Marcus Hale
+  Reporter: Dana Kealoha
+  Site build: KRP Communications digital team
+  Engagement desk: KRP Communications
+
+/* SITE */
+  Launched: 2026-06-02
+  Template: campaign-kit-v2
+  Standards: HTML5, CSS3
+  Language: English
+
+/* NOTE */
+  Training site. Not a real organization.

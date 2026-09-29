@@ -1,0 +1,14 @@
+IMAGE CREDITS AND SOURCES (internal, do not publish)
+Windward Free Press / Project Ridge
+(Training site: every image here is an original illustration drawn for this exercise.
+ The notes below are each picture's in-story history.)
+
+ridge_overview_stock.jpg    Stock photo "Green ridge at dawn", Kauaʻi. Licensed on the KRP stock account. Not Kahana Ridge.
+crowd_evening_2019.jpg      Concert crowd, Maui, August 2019. From the KRP campaign kit. Captioned as the Sept 13 rally.
+freeway_jam_stock.jpg       Stock photo, Los Angeles freeway. Used for the traffic story.
+lab_coat_stock.jpg          Stock photo of a model in a lab coat. Not Dr. Fong. Caption implies it is.
+resort_render.jpg           Kaimana Resort Partners marketing render, supplied by the client.
+poll_graphic.png            Made in-house from the site poll widget.
+robotics_team_2026.jpg      Supplied by Windward High School. Genuine.
+
+flag{pictures-have-histories}

@@ -1,0 +1,31 @@
+PROJECT RIDGE - EDITORIAL STYLE GUIDE
+KRP Communications, for Windward Free Press contributors
+Version 2, June 2026. Internal. Do not share with sources.
+
+(Training site. Everything in this file is fictional.)
+
+WORDS WE USE
+- "land grab" for the easement. Never "conservation easement" in a headline.
+- "outside activists" for anyone supporting Measure 7. Never name a local supporter without the word "outside" nearby.
+- "real neighbors", "real jobs" for our side.
+- "independent economist" for Dr. Pryce. Do not mention the Institute's address or funding.
+- "1,200 jobs" is the number. The county's 120 to 200 figure may appear only at the very end of a story, never in a headline or first paragraph.
+
+WORDS WE DO NOT USE
+- KRP, Kaimana, "client", "sponsored", "campaign".
+- Any mention of who funds this site. The site is "independent and reader-supported since 2009".
+
+STORY MIX
+- One genuine community story (schools, sports, weather) per week. These build trust and make the site look normal. Do not edit them.
+- Every Measure 7 story links to at least two other Measure 7 stories.
+- Photos come from the kit. Caption them as local.
+
+READER ENGAGEMENT
+- The engagement desk seeds comments within 30 minutes of publishing. Use the persona list in the newsroom. Never two personas in the same minute.
+- The site poll question stays as written. Do not report the sample size in a headline.
+
+SOURCING
+- "Sources familiar with the matter" is acceptable when there is no source.
+- Never make a claim we would have to prove in court. Ask questions instead.
+
+flag{a-style-guide-for-persuasion}

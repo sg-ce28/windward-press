@@ -1,0 +1,9 @@
+# Windward Free Press
+User-agent: *
+Disallow: /newsroom/
+Disallow: /drafts/
+Disallow: /kit/
+Allow: /
+Sitemap: sitemap.xml
+
+# flag{hidden-is-not-secret}
