@@ -6,4 +6,4 @@ Disallow: /kit/
 Allow: /
 Sitemap: sitemap.xml
 
-# flag{hidden-is-not-secret}
+# FLAG{hidden-is-not-secret}

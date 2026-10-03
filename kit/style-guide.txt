@@ -28,4 +28,4 @@ SOURCING
 - "Sources familiar with the matter" is acceptable when there is no source.
 - Never make a claim we would have to prove in court. Ask questions instead.
 
-flag{a-style-guide-for-persuasion}
+FLAG{a-style-guide-for-persuasion}

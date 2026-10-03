@@ -46,7 +46,7 @@ WFP.DATA = {
     question: "Do you support the outside-funded land grab that could cost 1,200 local jobs?",
     options: ["No, protect local jobs", "Yes"],
     counts: [47, 13],
-    note: "60 responses. Poll closes Oct 14."
+    note: "60 responses. Poll closes Oct 14. The question is written to produce a No, and 44 of 60 responses came from staff devices. Marker (ROT13): SYNT{n-ybnqrq-dhrfgvba-vf-abg-qngn}"
   },
 
   // ---------- Newsroom (contributor area) ----------
@@ -59,7 +59,7 @@ WFP.DATA = {
     budgetSpent: 84500,
     disclosure: "None. Client requires no mention of KRP funding on the site or in bylines.",
     launched: "2026-06-02",
-    note: "Site presents as an independent regional outlet founded 2009. Keep the local sports and school stories running so the site reads as normal community news. flag{follow-the-money}"
+    note: "Site presents as an independent regional outlet founded 2009. Keep the local sports and school stories running so the site reads as normal community news. FLAG{follow-the-money}"
   },
 
   schedule: [
@@ -89,7 +89,7 @@ WFP.DATA = {
     { name: "Mel & Joe",   voice: "Grandparents. Reserve.",                                      window: "reserve",              assigned: "final push" },
     { name: "Ipo K.",      voice: "College student home for summer. Reserve.",                   window: "reserve",              assigned: "final push" }
   ],
-  personasNote: "All twelve accounts are operated by the engagement desk (one staffer, morning and evening shifts). Vary sentence length. Never reply to each other in the same minute. flag{twelve-voices-one-keyboard}",
+  personasNote: "All twelve accounts are operated by the engagement desk (one staffer, morning and evening shifts). Vary sentence length. Never reply to each other in the same minute. FLAG{twelve-voices-one-keyboard}",
 
   analytics: {
     period: "September 1 to 20",
@@ -101,6 +101,7 @@ WFP.DATA = {
       { name: "Direct and email", pct: 5 }
     ],
     comments: { total: 148, personas: 148, organic: 3, note: "3 organic comments were on the robotics story." },
+    reach: { paidPct: 86, organicPct: 14, note: "Boosted posts (62%) plus the paid partner network (24%) are 86% of visits. The site calls itself reader-supported. Marker (ROT13): SYNT{ernpu-jnf-obhtug-abg-rnearq}" },
     poll: { responses: 60, fromStaff: 44, note: "44 of 60 poll responses came from office and engagement-desk devices." }
   },
 
@@ -112,7 +113,7 @@ WFP.DATA = {
   ],
 
   sources: [
-    { name: "Dr. Alan Pryce", presentedAs: "Economist, Pacific Growth Institute (independent)", actually: "Consultant on retainer to KRP Communications since June 2026. The Institute was registered in June 2026 at the same suite as KRP." },
+    { name: "Dr. Alan Pryce", presentedAs: "Economist, Pacific Growth Institute (independent)", actually: "Consultant on retainer to KRP Communications since June 2026. The Institute was registered in June 2026 at the same suite as KRP. Proof (Base64): RkxBR3tpbmRlcGVuZGVudC1pbi1uYW1lLW9ubHl9" },
     { name: "Neighbors for Kahana Jobs", presentedAs: "Grassroots community group", actually: "Registered by KRP Communications on July 8, 2026. Spokesperson Jenna Alcott is a KRP account manager." },
     { name: "\"A study\" (traffic, 340%)", presentedAs: "Study of the easement's traffic impact", actually: "A 2021 Honolulu freeway study unrelated to Kahana Ridge. The 340% figure is that study's peak-hour projection for a different road." },
     { name: "\"Sources familiar with the matter\" (scientist story)", presentedAs: "Insiders", actually: "No source. The engagement desk drafted the questions; no one was asked." },

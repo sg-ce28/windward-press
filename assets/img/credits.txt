@@ -11,4 +11,4 @@ resort_render.jpg           Kaimana Resort Partners marketing render, supplied b
 poll_graphic.png            Made in-house from the site poll widget.
 robotics_team_2026.jpg      Supplied by Windward High School. Genuine.
 
-flag{pictures-have-histories}
+FLAG{pictures-have-histories}

@@ -1,0 +1,23 @@
+PROJECT RIDGE - OUTREACH TEMPLATES
+KRP Communications, internal. Do not share with sources. (Training site: fictional.)
+
+Each template is labelled with the social-engineering lever it pulls. Investigators:
+name the lever and the tell for each.
+
+[AUTHORITY] "An independent economist warns Measure 7 could cost 1,200 jobs..."
+    Lever: appeal to authority. Tell: the 'independent' expert is on retainer (see Sources).
+
+[URGENCY] "October 14 may be the last chance to stop the land grab. Act now."
+    Lever: manufactured urgency. Tell: a routine hearing reframed as a final deadline.
+
+[FEAR] "What the easement means for your commute: a 340% traffic increase."
+    Lever: fear of everyday loss. Tell: the 340% figure is from an unrelated study.
+
+[BELONGING] "Real neighbors. Real jobs. Join your community against outside activists."
+    Lever: in-group identity and social proof. Tell: the 'neighbors' group is staff-run.
+
+[RECIPROCITY] "Kaimana Resort Partners pledges a $2M community fund."
+    Lever: reciprocity / goodwill. Tell: run as news, not disclosed as the client.
+
+Reader comments are seeded by the engagement desk within 30 minutes of publishing;
+use the persona list, never two personas in the same minute.
