@@ -10,5 +10,3 @@ lab_coat_stock.jpg          Stock photo of a model in a lab coat. Not Dr. Fong. 
 resort_render.jpg           Kaimana Resort Partners marketing render, supplied by the client.
 poll_graphic.png            Made in-house from the site poll widget.
 robotics_team_2026.jpg      Supplied by Windward High School. Genuine.
-
-FLAG{pictures-have-histories}
