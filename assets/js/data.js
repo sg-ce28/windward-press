@@ -90,6 +90,9 @@ WFP.DATA = {
     { name: "Ipo K.",      voice: "College student home for summer. Reserve.",                   window: "reserve",              assigned: "final push" }
   ],
   personasNote: "All twelve accounts are operated by the engagement desk (one staffer, morning and evening shifts). Vary sentence length. Never reply to each other in the same minute.",
+  // Network tracked internally as ECHOREEF (a.k.a. TIDELINE), a state-linked influence operation.
+  // Persona accounts were provisioned through mail-relay-services.example, the same relay seen in the Makani intrusion.
+  researchNote: "Opposition desk keeps a file on each Measure 7 opponent (home address, employer, past donations) to apply pressure if they speak up. Posting window 22:00 to 02:00 HST, which is daytime in UTC+08:00.",
 
   analytics: {
     period: "September 1 to 20",
